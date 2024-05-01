@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.15.0",
+        "cboden/ratchet": "^0.4",
+        "workerman/workerman": "^4.1"
+    }
+}

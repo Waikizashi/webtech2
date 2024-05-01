@@ -1,0 +1,922 @@
+2024-04-19 22:28:25 pid:159607 Workerman[server.php] start in DEBUG mode
+2024-04-19 22:29:07 pid:159607 Workerman[server.php] stopping ...
+2024-04-19 22:29:07 pid:159607 Workerman[server.php] has been stopped
+2024-04-19 22:45:26 pid:1517 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-19 22:45:41 pid:1519 Workerman[wsserver.php] stopping ...
+2024-04-19 22:45:41 pid:1519 Workerman[wsserver.php] has been stopped
+2024-04-19 22:45:41 pid:1536 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-19 23:54:56 pid:1538 Workerman[wsserver.php] stopping ...
+2024-04-19 23:54:56 pid:1538 Workerman[wsserver.php] has been stopped
+2024-04-19 23:54:57 pid:2529 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-19 23:59:38 pid:2532 Workerman[wsserver.php] stopping ...
+2024-04-19 23:59:38 pid:2532 Workerman[wsserver.php] has been stopped
+2024-04-19 23:59:38 pid:2579 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 00:00:32 pid:2582 Workerman[wsserver.php] stopping ...
+2024-04-20 00:00:32 pid:2582 Workerman[wsserver.php] has been stopped
+2024-04-20 00:00:52 pid:2605 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 00:01:17 pid:2607 Workerman[wsserver.php] stopping ...
+2024-04-20 00:01:17 pid:2607 Workerman[wsserver.php] has been stopped
+2024-04-20 00:01:17 pid:2614 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 00:21:34 pid:2616 Workerman[wsserver.php] stopping ...
+2024-04-20 00:21:34 pid:2616 Workerman[wsserver.php] has been stopped
+2024-04-20 00:24:31 pid:2753 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 00:50:34 pid:2755 Workerman[wsserver.php] stopping ...
+2024-04-20 00:50:34 pid:2755 Workerman[wsserver.php] has been stopped
+2024-04-20 00:50:34 pid:2874 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 00:54:43 pid:2877 Workerman[wsserver.php] stopping ...
+2024-04-20 00:54:43 pid:2877 Workerman[wsserver.php] has been stopped
+2024-04-20 00:57:29 pid:2912 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:07:39 pid:2914 Workerman[wsserver.php] stopping ...
+2024-04-20 01:07:39 pid:2914 Workerman[wsserver.php] has been stopped
+2024-04-20 01:08:51 pid:2979 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:13:08 pid:2981 Workerman[wsserver.php] stopping ...
+2024-04-20 01:13:08 pid:2981 Workerman[wsserver.php] has been stopped
+2024-04-20 01:13:08 pid:3045 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:13:49 pid:3047 Workerman[wsserver.php] stopping ...
+2024-04-20 01:13:49 pid:3047 Workerman[wsserver.php] has been stopped
+2024-04-20 01:13:49 pid:3056 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:15:55 pid:3058 Workerman[wsserver.php] stopping ...
+2024-04-20 01:15:55 pid:3058 Workerman[wsserver.php] has been stopped
+2024-04-20 01:15:55 pid:3065 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:20:47 pid:3067 Workerman[wsserver.php] stopping ...
+2024-04-20 01:20:47 pid:3067 Workerman[wsserver.php] has been stopped
+2024-04-20 01:20:47 pid:3082 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:45:31 pid:3084 Workerman[wsserver.php] stopping ...
+2024-04-20 01:45:31 pid:3084 Workerman[wsserver.php] has been stopped
+2024-04-20 01:45:31 pid:3189 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:53:50 pid:3191 Workerman[wsserver.php] stopping ...
+2024-04-20 01:53:50 pid:3191 Workerman[wsserver.php] has been stopped
+2024-04-20 01:53:50 pid:3209 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:54:16 pid:3212 Workerman[wsserver.php] stopping ...
+2024-04-20 01:54:16 pid:3212 Workerman[wsserver.php] has been stopped
+2024-04-20 01:54:16 pid:3222 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:55:36 pid:3224 Workerman[wsserver.php] stopping ...
+2024-04-20 01:55:36 pid:3224 Workerman[wsserver.php] has been stopped
+2024-04-20 01:55:36 pid:3233 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:56:18 pid:3235 Workerman[wsserver.php] stopping ...
+2024-04-20 01:56:18 pid:3235 Workerman[wsserver.php] has been stopped
+2024-04-20 01:56:18 pid:3245 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 01:57:41 pid:3247 Workerman[wsserver.php] stopping ...
+2024-04-20 01:57:41 pid:3247 Workerman[wsserver.php] has been stopped
+2024-04-20 01:57:41 pid:3254 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 02:08:47 pid:3256 Workerman[wsserver.php] stopping ...
+2024-04-20 02:08:47 pid:3256 Workerman[wsserver.php] has been stopped
+2024-04-20 02:08:47 pid:3301 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 02:11:50 pid:3304 Workerman[wsserver.php] stopping ...
+2024-04-20 02:11:50 pid:3304 Workerman[wsserver.php] has been stopped
+2024-04-20 02:11:50 pid:3362 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 15:43:41 pid:3364 Workerman[wsserver.php] stopping ...
+2024-04-20 15:43:43 pid:3364 worker[none:3365] exit with status 9
+2024-04-20 15:43:43 pid:3364 Workerman[wsserver.php] has been stopped
+2024-04-20 15:43:43 pid:20429 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 17:46:57 pid:20431 Workerman[wsserver.php] stopping ...
+2024-04-20 17:46:57 pid:20431 Workerman[wsserver.php] has been stopped
+2024-04-20 17:46:57 pid:21283 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-20 21:04:22 pid:21286 Workerman[wsserver.php] stopping ...
+2024-04-20 21:04:22 pid:21286 Workerman[wsserver.php] has been stopped
+2024-04-20 21:04:22 pid:21735 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 10:23:26 pid:21738 Workerman[wsserver.php] stopping ...
+2024-04-23 10:23:26 pid:21738 Workerman[wsserver.php] has been stopped
+2024-04-23 10:23:26 pid:33752 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 13:51:40 pid:33754 Workerman[wsserver.php] stopping ...
+2024-04-23 13:51:40 pid:33754 Workerman[wsserver.php] has been stopped
+2024-04-23 13:51:40 pid:34599 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 13:53:07 pid:34601 Workerman[wsserver.php] stopping ...
+2024-04-23 13:53:07 pid:34601 Workerman[wsserver.php] has been stopped
+2024-04-23 13:53:07 pid:34613 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 13:55:01 pid:34616 Workerman[wsserver.php] stopping ...
+2024-04-23 13:55:01 pid:34616 Workerman[wsserver.php] has been stopped
+2024-04-23 13:55:01 pid:34624 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 13:55:57 pid:34626 Workerman[wsserver.php] stopping ...
+2024-04-23 13:55:57 pid:34626 Workerman[wsserver.php] has been stopped
+2024-04-23 13:55:57 pid:34635 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 19:40:29 pid:34637 Workerman[wsserver.php] stopping ...
+2024-04-23 19:40:29 pid:34637 Workerman[wsserver.php] has been stopped
+2024-04-23 19:40:29 pid:35743 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 19:40:33 pid:35747 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 19:40:33 pid:35746 worker[none:35747] exit with status 64000
+2024-04-23 19:40:36 pid:35748 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:36 pid:35746 worker[none:35748] exit with status 64000
+2024-04-23 19:40:39 pid:35749 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:39 pid:35746 worker[none:35749] exit with status 64000
+2024-04-23 19:40:41 pid:35750 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:41 pid:35746 worker[none:35750] exit with status 64000
+2024-04-23 19:40:41 pid:35751 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:41 pid:35746 worker[none:35751] exit with status 64000
+2024-04-23 19:40:42 pid:35752 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:42 pid:35746 worker[none:35752] exit with status 64000
+2024-04-23 19:40:43 pid:35753 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:43 pid:35746 worker[none:35753] exit with status 64000
+2024-04-23 19:40:43 pid:35754 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:43 pid:35746 worker[none:35754] exit with status 64000
+2024-04-23 19:40:44 pid:35756 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:44 pid:35746 worker[none:35756] exit with status 64000
+2024-04-23 19:40:45 pid:35757 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:45 pid:35746 worker[none:35757] exit with status 64000
+2024-04-23 19:40:45 pid:35758 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:45 pid:35746 worker[none:35758] exit with status 64000
+2024-04-23 19:40:45 pid:35759 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:40:45 pid:35746 worker[none:35759] exit with status 64000
+2024-04-23 19:41:31 pid:35760 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:41:31 pid:35746 worker[none:35760] exit with status 64000
+2024-04-23 19:41:34 pid:35763 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:41:34 pid:35746 worker[none:35763] exit with status 64000
+2024-04-23 19:41:50 pid:35746 Workerman[wsserver.php] stopping ...
+2024-04-23 19:41:50 pid:35746 Workerman[wsserver.php] has been stopped
+2024-04-23 19:41:50 pid:35770 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 19:41:53 pid:35774 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 19:41:53 pid:35772 worker[none:35774] exit with status 64000
+2024-04-23 19:41:55 pid:35775 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:41:55 pid:35772 worker[none:35775] exit with status 64000
+2024-04-23 19:42:05 pid:35772 Workerman[wsserver.php] stopping ...
+2024-04-23 19:42:05 pid:35772 Workerman[wsserver.php] has been stopped
+2024-04-23 19:42:05 pid:35785 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 19:44:22 pid:35787 Workerman[wsserver.php] stopping ...
+2024-04-23 19:44:22 pid:35787 Workerman[wsserver.php] has been stopped
+2024-04-23 19:44:22 pid:35803 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 19:44:25 pid:35807 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 19:44:25 pid:35806 worker[none:35807] exit with status 64000
+2024-04-23 19:44:26 pid:35808 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:44:26 pid:35806 worker[none:35808] exit with status 64000
+2024-04-23 19:47:08 pid:35806 Workerman[wsserver.php] stopping ...
+2024-04-23 19:47:08 pid:35806 Workerman[wsserver.php] has been stopped
+2024-04-23 19:47:08 pid:35826 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 19:47:11 pid:35830 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 19:47:11 pid:35829 worker[none:35830] exit with status 64000
+2024-04-23 19:47:15 pid:35831 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:47:15 pid:35829 worker[none:35831] exit with status 64000
+2024-04-23 19:47:16 pid:35833 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:47:16 pid:35829 worker[none:35833] exit with status 64000
+2024-04-23 19:47:17 pid:35834 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:47:17 pid:35829 worker[none:35834] exit with status 64000
+2024-04-23 19:47:18 pid:35835 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:47:18 pid:35829 worker[none:35835] exit with status 64000
+2024-04-23 19:47:19 pid:35836 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 19:47:19 pid:35829 worker[none:35836] exit with status 64000
+2024-04-23 19:47:38 pid:35829 Workerman[wsserver.php] stopping ...
+2024-04-23 19:47:38 pid:35829 Workerman[wsserver.php] has been stopped
+2024-04-23 19:47:38 pid:35845 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 20:03:01 pid:35847 Workerman[wsserver.php] stopping ...
+2024-04-23 20:03:01 pid:35847 Workerman[wsserver.php] has been stopped
+2024-04-23 20:03:01 pid:35885 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 20:03:05 pid:35890 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 20:03:05 pid:35889 worker[none:35890] exit with status 64000
+2024-04-23 20:03:08 pid:35891 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:03:08 pid:35889 worker[none:35891] exit with status 64000
+2024-04-23 20:03:09 pid:35892 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:03:09 pid:35889 worker[none:35892] exit with status 64000
+2024-04-23 20:03:10 pid:35893 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:03:10 pid:35889 worker[none:35893] exit with status 64000
+2024-04-23 20:03:11 pid:35894 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:03:11 pid:35889 worker[none:35894] exit with status 64000
+2024-04-23 20:05:43 pid:35895 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:05:43 pid:35889 worker[none:35895] exit with status 64000
+2024-04-23 20:05:46 pid:36203 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:05:46 pid:35889 worker[none:36203] exit with status 64000
+2024-04-23 20:05:52 pid:36217 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:05:52 pid:35889 worker[none:36217] exit with status 64000
+2024-04-23 20:05:52 pid:36229 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:05:52 pid:35889 worker[none:36229] exit with status 64000
+2024-04-23 20:05:53 pid:36230 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:05:53 pid:35889 worker[none:36230] exit with status 64000
+2024-04-23 20:05:54 pid:36231 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:05:54 pid:35889 worker[none:36231] exit with status 64000
+2024-04-23 20:05:55 pid:36232 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:05:55 pid:35889 worker[none:36232] exit with status 64000
+2024-04-23 20:05:57 pid:36233 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:82
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(82): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(135): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 20:05:57 pid:35889 worker[none:36233] exit with status 64000
+2024-04-23 20:06:20 pid:35889 Workerman[wsserver.php] stopping ...
+2024-04-23 20:06:20 pid:35889 Workerman[wsserver.php] has been stopped
+2024-04-23 20:07:39 pid:36443 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DEBUG mode
+2024-04-23 20:07:46 pid:36444 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:83
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(83): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(136): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 20:07:46 pid:36443 worker[none:36444] exit with status 64000
+2024-04-23 20:08:32 pid:36443 Workerman[wsserver.php] stopping ...
+2024-04-23 20:08:32 pid:36443 Workerman[wsserver.php] has been stopped
+2024-04-23 20:08:34 pid:36531 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DEBUG mode
+2024-04-23 20:08:36 pid:36532 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:84
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(84): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(137): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 20:08:36 pid:36531 worker[none:36532] exit with status 64000
+2024-04-23 20:09:05 pid:36531 Workerman[wsserver.php] stopping ...
+2024-04-23 20:09:05 pid:36531 Workerman[wsserver.php] has been stopped
+2024-04-23 20:09:06 pid:36643 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DEBUG mode
+2024-04-23 20:09:07 pid:36644 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:84
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(84): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(137): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 20:09:07 pid:36643 worker[none:36644] exit with status 64000
+2024-04-23 20:12:17 pid:36643 Workerman[wsserver.php] stopping ...
+2024-04-23 20:12:17 pid:36643 Workerman[wsserver.php] has been stopped
+2024-04-23 20:12:18 pid:36734 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DEBUG mode
+2024-04-23 20:12:20 pid:36735 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:85
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(85): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(138): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 20:12:20 pid:36734 worker[none:36735] exit with status 64000
+2024-04-23 20:13:06 pid:36734 Workerman[wsserver.php] stopping ...
+2024-04-23 20:13:06 pid:36734 Workerman[wsserver.php] has been stopped
+2024-04-23 20:13:11 pid:36818 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DEBUG mode
+2024-04-23 20:13:13 pid:36819 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:85
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(85): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(138): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 20:13:13 pid:36818 worker[none:36819] exit with status 64000
+2024-04-23 20:14:51 pid:36818 Workerman[wsserver.php] stopping ...
+2024-04-23 20:14:51 pid:36818 Workerman[wsserver.php] has been stopped
+2024-04-23 20:14:52 pid:36872 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DEBUG mode
+2024-04-23 20:14:55 pid:36873 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:84
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(84): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(137): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 20:14:55 pid:36872 worker[none:36873] exit with status 64000
+2024-04-23 20:17:09 pid:36872 Workerman[wsserver.php] stopping ...
+2024-04-23 20:17:09 pid:36872 Workerman[wsserver.php] has been stopped
+2024-04-23 20:17:10 pid:36931 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DEBUG mode
+2024-04-23 20:18:11 pid:36931 Workerman[wsserver.php] stopping ...
+2024-04-23 20:18:11 pid:36931 Workerman[wsserver.php] has been stopped
+2024-04-23 20:18:33 pid:37033 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 20:19:16 pid:570 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 20:47:54 pid:1820 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 20:48:51 pid:1866 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 20:49:03 pid:1869 Workerman[wsserver.php] stopping ...
+2024-04-23 20:49:03 pid:1869 Workerman[wsserver.php] has been stopped
+2024-04-23 20:49:03 pid:1903 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 20:49:39 pid:1905 Workerman[wsserver.php] stopping ...
+2024-04-23 20:49:39 pid:1905 Workerman[wsserver.php] has been stopped
+2024-04-23 20:49:39 pid:1941 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 20:57:42 pid:1943 Workerman[wsserver.php] stopping ...
+2024-04-23 20:57:42 pid:1943 Workerman[wsserver.php] has been stopped
+2024-04-23 20:57:42 pid:2003 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:01:27 pid:2006 Workerman[wsserver.php] stopping ...
+2024-04-23 21:01:27 pid:2006 Workerman[wsserver.php] has been stopped
+2024-04-23 21:01:27 pid:2051 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:01:46 pid:2053 Workerman[wsserver.php] stopping ...
+2024-04-23 21:01:46 pid:2053 Workerman[wsserver.php] has been stopped
+2024-04-23 21:01:46 pid:2088 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:02:38 pid:2090 Workerman[wsserver.php] stopping ...
+2024-04-23 21:02:38 pid:2090 Workerman[wsserver.php] has been stopped
+2024-04-23 21:02:38 pid:2143 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:03:37 pid:2145 Workerman[wsserver.php] stopping ...
+2024-04-23 21:03:37 pid:2145 Workerman[wsserver.php] has been stopped
+2024-04-23 21:03:37 pid:2181 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:07:57 pid:2183 Workerman[wsserver.php] stopping ...
+2024-04-23 21:07:57 pid:2183 Workerman[wsserver.php] has been stopped
+2024-04-23 21:07:57 pid:2224 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:08:05 pid:2229 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:83
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(83): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(144): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 21:08:05 pid:2226 worker[none:2229] exit with status 64000
+2024-04-23 21:08:15 pid:2255 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:83
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(83): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(144): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 21:08:15 pid:2226 worker[none:2255] exit with status 64000
+2024-04-23 21:08:17 pid:2256 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:83
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(83): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1788): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1724): Workerman\Worker::monitorWorkersForLinux()
+#8 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(562): Workerman\Worker::monitorWorkers()
+#9 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(144): Workerman\Worker::runAll()
+#10 {main}
+2024-04-23 21:08:17 pid:2226 worker[none:2256] exit with status 64000
+2024-04-23 21:08:26 pid:2226 Workerman[wsserver.php] stopping ...
+2024-04-23 21:08:26 pid:2226 Workerman[wsserver.php] has been stopped
+2024-04-23 21:08:26 pid:2264 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:08:28 pid:2268 TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php:83
+Stack trace:
+#0 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(83): in_array()
+#1 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Connection/TcpConnection.php(646): {closure}()
+#2 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Events/Select.php(311): Workerman\Connection\TcpConnection->baseRead()
+#3 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1638): Workerman\Events\Select->loop()
+#4 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1429): Workerman\Worker::forkOneWorkerForLinux()
+#5 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(1403): Workerman\Worker::forkWorkersForLinux()
+#6 /var/www/node86.webte.fei.stuba.sk/z3/backend/vendor/workerman/workerman/Worker.php(560): Workerman\Worker::forkWorkers()
+#7 /var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php(144): Workerman\Worker::runAll()
+#8 {main}
+2024-04-23 21:08:28 pid:2266 worker[none:2268] exit with status 64000
+2024-04-23 21:17:22 pid:2266 Workerman[wsserver.php] stopping ...
+2024-04-23 21:17:22 pid:2266 Workerman[wsserver.php] has been stopped
+2024-04-23 21:17:22 pid:2379 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:28:13 pid:2382 Workerman[wsserver.php] stopping ...
+2024-04-23 21:28:13 pid:2382 Workerman[wsserver.php] has been stopped
+2024-04-23 21:28:13 pid:2465 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:29:59 pid:2467 Workerman[wsserver.php] stopping ...
+2024-04-23 21:29:59 pid:2467 worker[none:2470] exit with status 15
+2024-04-23 21:29:59 pid:2467 Workerman[wsserver.php] has been stopped
+2024-04-23 21:29:59 pid:2506 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:30:29 pid:2508 Workerman[wsserver.php] stopping ...
+2024-04-23 21:30:29 pid:2508 Workerman[wsserver.php] has been stopped
+2024-04-23 21:30:42 pid:2577 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 21:32:07 pid:2579 Workerman[wsserver.php] stopping ...
+2024-04-23 21:32:07 pid:2579 Workerman[wsserver.php] has been stopped
+2024-04-23 21:32:07 pid:2614 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:00:28 pid:2616 Workerman[wsserver.php] stopping ...
+2024-04-23 22:00:28 pid:2616 Workerman[wsserver.php] has been stopped
+2024-04-23 22:00:28 pid:2837 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:18:28 pid:2839 Workerman[wsserver.php] stopping ...
+2024-04-23 22:18:28 pid:2839 Workerman[wsserver.php] has been stopped
+2024-04-23 22:18:29 pid:3042 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:29:36 pid:3045 Workerman[wsserver.php] stopping ...
+2024-04-23 22:29:36 pid:3045 Workerman[wsserver.php] has been stopped
+2024-04-23 22:29:36 pid:3099 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:30:17 pid:3103 Workerman[wsserver.php] stopping ...
+2024-04-23 22:30:17 pid:3103 Workerman[wsserver.php] has been stopped
+2024-04-23 22:30:17 pid:3138 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:30:41 pid:3140 Workerman[wsserver.php] stopping ...
+2024-04-23 22:30:41 pid:3140 Workerman[wsserver.php] has been stopped
+2024-04-23 22:30:41 pid:3174 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:31:07 pid:3176 Workerman[wsserver.php] stopping ...
+2024-04-23 22:31:07 pid:3176 Workerman[wsserver.php] has been stopped
+2024-04-23 22:31:07 pid:3209 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:34:50 pid:3211 Workerman[wsserver.php] stopping ...
+2024-04-23 22:34:50 pid:3211 Workerman[wsserver.php] has been stopped
+2024-04-23 22:34:50 pid:3254 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:36:58 pid:3256 Workerman[wsserver.php] stopping ...
+2024-04-23 22:36:58 pid:3256 Workerman[wsserver.php] has been stopped
+2024-04-23 22:36:58 pid:3291 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:37:51 pid:3293 Workerman[wsserver.php] stopping ...
+2024-04-23 22:37:51 pid:3293 Workerman[wsserver.php] has been stopped
+2024-04-23 22:37:51 pid:3328 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:38:56 pid:3330 Workerman[wsserver.php] stopping ...
+2024-04-23 22:38:56 pid:3330 Workerman[wsserver.php] has been stopped
+2024-04-23 22:38:56 pid:3365 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:39:48 pid:3367 Workerman[wsserver.php] stopping ...
+2024-04-23 22:39:49 pid:3367 Workerman[wsserver.php] has been stopped
+2024-04-23 22:39:49 pid:3449 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:40:50 pid:3451 Workerman[wsserver.php] stopping ...
+2024-04-23 22:40:50 pid:3451 Workerman[wsserver.php] has been stopped
+2024-04-23 22:40:50 pid:3489 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:41:34 pid:3491 Workerman[wsserver.php] stopping ...
+2024-04-23 22:41:34 pid:3491 worker[none:3493] exit with status 15
+2024-04-23 22:41:34 pid:3491 Workerman[wsserver.php] has been stopped
+2024-04-23 22:41:34 pid:3528 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:42:03 pid:3530 Workerman[wsserver.php] stopping ...
+2024-04-23 22:42:03 pid:3530 Workerman[wsserver.php] has been stopped
+2024-04-23 22:42:03 pid:3563 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:42:52 pid:3565 Workerman[wsserver.php] stopping ...
+2024-04-23 22:42:52 pid:3565 Workerman[wsserver.php] has been stopped
+2024-04-23 22:42:52 pid:3598 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:43:53 pid:3600 Workerman[wsserver.php] stopping ...
+2024-04-23 22:43:53 pid:3600 Workerman[wsserver.php] has been stopped
+2024-04-23 22:43:53 pid:3634 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:44:50 pid:3636 Workerman[wsserver.php] stopping ...
+2024-04-23 22:44:50 pid:3636 Workerman[wsserver.php] has been stopped
+2024-04-23 22:44:50 pid:3670 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:46:43 pid:3672 Workerman[wsserver.php] stopping ...
+2024-04-23 22:46:43 pid:3672 Workerman[wsserver.php] has been stopped
+2024-04-23 22:46:43 pid:3709 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:46:58 pid:3711 Workerman[wsserver.php] stopping ...
+2024-04-23 22:46:58 pid:3711 Workerman[wsserver.php] has been stopped
+2024-04-23 22:46:58 pid:3746 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:47:30 pid:3748 Workerman[wsserver.php] stopping ...
+2024-04-23 22:47:30 pid:3748 Workerman[wsserver.php] has been stopped
+2024-04-23 22:47:30 pid:3784 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 22:48:31 pid:3786 Workerman[wsserver.php] stopping ...
+2024-04-23 22:48:31 pid:3786 worker[none:3788] exit with status 15
+2024-04-23 22:48:31 pid:3786 Workerman[wsserver.php] has been stopped
+2024-04-23 22:48:31 pid:3819 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:00:01 pid:3821 Workerman[wsserver.php] stopping ...
+2024-04-23 23:00:01 pid:3821 Workerman[wsserver.php] has been stopped
+2024-04-23 23:00:01 pid:3900 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:01:22 pid:3903 Workerman[wsserver.php] stopping ...
+2024-04-23 23:01:22 pid:3903 Workerman[wsserver.php] has been stopped
+2024-04-23 23:01:22 pid:3950 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:01:50 pid:3952 Workerman[wsserver.php] stopping ...
+2024-04-23 23:01:50 pid:3952 Workerman[wsserver.php] has been stopped
+2024-04-23 23:01:50 pid:3987 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:05:12 pid:3989 Workerman[wsserver.php] stopping ...
+2024-04-23 23:05:12 pid:3989 Workerman[wsserver.php] has been stopped
+2024-04-23 23:05:13 pid:4067 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:06:17 pid:4069 Workerman[wsserver.php] stopping ...
+2024-04-23 23:06:17 pid:4069 Workerman[wsserver.php] has been stopped
+2024-04-23 23:06:17 pid:4102 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:06:56 pid:4104 Workerman[wsserver.php] stopping ...
+2024-04-23 23:06:56 pid:4104 Workerman[wsserver.php] has been stopped
+2024-04-23 23:06:56 pid:4137 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:07:33 pid:4139 Workerman[wsserver.php] stopping ...
+2024-04-23 23:07:33 pid:4139 Workerman[wsserver.php] has been stopped
+2024-04-23 23:07:33 pid:4172 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:08:53 pid:4175 Workerman[wsserver.php] stopping ...
+2024-04-23 23:08:53 pid:4175 Workerman[wsserver.php] has been stopped
+2024-04-23 23:08:53 pid:4210 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:11:04 pid:4212 Workerman[wsserver.php] stopping ...
+2024-04-23 23:11:04 pid:4212 Workerman[wsserver.php] has been stopped
+2024-04-23 23:11:04 pid:4297 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:12:16 pid:4299 Workerman[wsserver.php] stopping ...
+2024-04-23 23:12:16 pid:4299 Workerman[wsserver.php] has been stopped
+2024-04-23 23:12:16 pid:4334 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-23 23:13:46 pid:4336 Workerman[wsserver.php] stopping ...
+2024-04-23 23:13:46 pid:4336 Workerman[wsserver.php] has been stopped
+2024-04-23 23:13:46 pid:4371 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-25 13:48:54 pid:4373 Workerman[wsserver.php] stopping ...
+2024-04-25 13:48:54 pid:4373 Workerman[wsserver.php] has been stopped
+2024-04-25 13:48:54 pid:13295 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-25 13:50:36 pid:13298 Workerman[wsserver.php] stopping ...
+2024-04-25 13:50:36 pid:13298 Workerman[wsserver.php] has been stopped
+2024-04-25 13:50:36 pid:13343 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
+2024-04-25 13:51:37 pid:13346 Workerman[wsserver.php] stopping ...
+2024-04-25 13:51:37 pid:13346 Workerman[wsserver.php] has been stopped
+2024-04-25 13:51:38 pid:13387 Workerman[/var/www/node86.webte.fei.stuba.sk/z3/server/wsserver.php] start in DAEMON mode
